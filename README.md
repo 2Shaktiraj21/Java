@@ -1,7 +1,7 @@
 # Java
 It is a comprehensive Java Tutorial 
 In this tutorial I have give you the source code of java which has different type of codes by which you can learn the java from basic to advance level
-Chapter Summary
+Chapter1 Summary
 1. A computer is an electronic device that stores and processes data.
 2. A computer includes both hardware and software.
 3. Hardware is the physical aspect of the computer that can be touched.
